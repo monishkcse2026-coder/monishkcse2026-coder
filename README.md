@@ -36,8 +36,8 @@ Hi there, I'm Monish K 👋
 
 🤝 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile link here.
-- 🐙 GitHub: "My GitHub Profile" (https://github.com/)
+- 💼 LinkedIn: https://www.linkedin.com/in/monish-k-4b13a7437?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🐙 GitHub: "monishkcse2026-coder" (https://github.com/)
 
 ---
 
